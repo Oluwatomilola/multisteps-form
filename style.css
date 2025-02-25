@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #ffe8e8;
+    background-image: url(./images/schoolform.jpg) ;
     font-family: "Roboto",sans-serif;
     height: 100vh;
     display: grid;
@@ -13,7 +13,8 @@ body {
 }
 
 .form {
-    width: 98%;
+    background: #ffe8e8;
+    width: 90%;
     max-width: 400px;
 }
 
